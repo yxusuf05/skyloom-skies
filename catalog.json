@@ -1,0 +1,23 @@
+{
+  "formatVersion": 1,
+  "skies": [
+    {
+      "id": "absol",
+      "name": "Absol",
+      "category": "Anime",
+      "description": "Moonlit ridge with Absol watching over it.",
+      "thumbnail": "https://raw.githubusercontent.com/yxusuf05/skyloom-skies/main/thumbs/absol.png",
+      "download": "https://github.com/yxusuf05/skyloom-skies/releases/download/v1/absol.zip",
+      "size": 50331648
+    },
+    {
+      "id": "nebula",
+      "name": "Deep Nebula",
+      "category": "Space",
+      "description": "Layered gas clouds and a dense star field.",
+      "thumbnail": "https://raw.githubusercontent.com/yxusuf05/skyloom-skies/main/thumbs/nebula.png",
+      "download": "https://github.com/yxusuf05/skyloom-skies/releases/download/v1/nebula.zip",
+      "size": 138412032
+    }
+  ]
+}
